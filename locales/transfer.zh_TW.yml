@@ -1,0 +1,26 @@
+zh_TW:
+  transfer_success:
+    title: '轉賬交易已生成。'
+    desc_html: '請等待 <a href="%{link}" target="_blank">交易</a> 獲得確認，通常需時10秒。'
+  transfer_error:
+    invalid_captcha:
+      title: '驗證碼錯誤'
+      desc: '驗證碼錯誤，請重試。請確保你的網絡能訪問 Google reCAPTCHA 。'
+    invalid_from:
+      title: '來源地址錯誤'
+      desc: '我們需要正確的地址進行交易。'
+    invalid_to:
+      title: '目標地址錯誤'
+      desc: '我們需要正確的地址進行交易。'
+    invalid_value:
+      title: '票數數量錯誤'
+      desc: '我們需要正確的數量進行交易。'
+    insufficient_funds:
+      title: '餘額不足'
+      desc: '你沒有足夠的餘額來進行交易。'
+    incorrect_password:
+      title: '密碼錯誤'
+      desc: '我們需要你提供正確的密碼來解鎖你的密鑰，以進行交易。'
+    else:
+      title: '發生錯誤'
+      desc: '我們會盡快修復此錯誤。'

@@ -1,0 +1,20 @@
+en:
+  home:
+    global_users: 'Global Users'
+    search: 'Search'
+    name: 'Name'
+    votes: 'Votes'
+    last24hrs: 'Last 24 hrs'
+    voters: 'Voters'
+    change: 'Change'
+    last2weeks: 'Last 2 Weeks'
+    refer_your_friends: 'Refer your friends'
+    refer_text: 'Copy this unique referral link and then pass it along to your friends.
+      You’ll be received %{votes} votes for anyone who follows your link to sign up and have email verified.'
+    copy_link: 'Copy Link'
+    copied: 'Copied!'
+
+    all_time: 'All Time'
+    last_week: 'Last Week'
+    last2weeks: 'Last 2 Weeks'
+    last30days: 'Last 30 days'

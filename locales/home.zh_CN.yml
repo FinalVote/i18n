@@ -1,0 +1,20 @@
+zh_CN:
+  home:
+    global_users: '全球用户'
+    search: '搜索'
+    name: '名人名称'
+    votes: '总得票'
+    last24hrs: '24小时内得票'
+    voters: '独立投票人数'
+    change: '排名变化'
+    last2weeks: '2周内走势'
+    refer_your_friends: '邀请朋友'
+    refer_text: '复制邀请链接，并发给你的朋友，请他们注册。
+      任何人通过此链接成功注册，你将免费获得 %{votes} 票。'
+    copy_link: '复制链接'
+    copied: '已复制!'
+
+    all_time: '不限时间'
+    last_week: '仅本周内'
+    last2weeks: '仅2周内'
+    last30days: '仅1个月内'

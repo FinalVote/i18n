@@ -1,0 +1,26 @@
+en:
+  # nav
+  home_page: 'Home'
+  block_explorer: 'BlockExplorer'
+  create_new_celeb: 'Create New Celebrity'
+  wallet: 'Wallet'
+  transactions: 'Transactions'
+  profile: 'Profile'
+  password: 'Password'
+  send_transaction: 'Send Transaction'
+  sign_out: 'Sign Out'
+  sign_in: 'Sign In'
+  sign_up: 'Sign Up'
+  refer_votes: 'Receive %{votes} votes for every friend you invite.'
+  sign_up_votes: 'Sign up now and get %{votes} free votes.'
+
+  # footer
+  social_media: 'Social Media'
+  section: 'Section'
+  voting: 'Voting'
+  tag: 'Tag'
+  others: 'Others'
+  blog: 'Blog'
+  faq: 'FAQ'
+  roadmap: 'RoadMap'
+  language: 'Language'

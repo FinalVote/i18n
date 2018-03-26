@@ -1,0 +1,26 @@
+zh_CN:
+  transfer_success:
+    title: '转账交易已生成。'
+    desc_html: '请等待 <a href="%{link}" target="_blank">交易</a> 获得确认，通常需时10秒。'
+  transfer_error:
+    invalid_captcha:
+      title: '验证码错误'
+      desc: '验证码错误，请重试。请确保你的网络能访问 Google reCAPTCHA 。'
+    invalid_from:
+      title: '来源地址错误'
+      desc: '我们需要正确的地址进行交易。'
+    invalid_to:
+      title: '目标地址错误'
+      desc: '我们需要正确的地址进行交易。'
+    invalid_value:
+      title: '票数数量错误'
+      desc: '我们需要正确的数量进行交易。'
+    insufficient_funds:
+      title: '余额不足'
+      desc: '你没有足够的余额来进行交易。'
+    incorrect_password:
+      title: '密码错误'
+      desc: '我们需要你提供正确的密码来解锁你的密钥，以进行交易。'
+    else:
+      title: '发生错误'
+      desc: '我们会尽快修复此错误。'

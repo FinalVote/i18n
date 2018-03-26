@@ -1,0 +1,71 @@
+en:
+  celeb:
+    new_page: 'New Page'
+    name: 'Name'
+    celebrity_name: 'Celebrity Name'
+    name_help_html: 'Name of the <a href="https://en.wikipedia.org/wiki/Lists_of_celebrities" target="_blank">celebrity</a>
+      (actor, musician and so on) you want to create for.'
+    content: 'Content'
+    introduction: 'Introduction'
+    password: 'Password'
+    password_help: 'Enter your account password to unlock keystore.'
+    page_address: 'Page Address'
+    contract_data: 'contract data'
+    page_address_help: 'Page address is generated once page is created.'
+    cost: 'Cost'
+    cost_votes_html: '%{votes} votes'
+    cost_remain_html: 'You have %{votes} votes in your %{address}'
+    primary_address: 'primary address'
+    save: 'Save'
+    saving: 'Saving...'
+    total_votes: 'total votes'
+    unique_voters: 'unique voters'
+    profile: 'Profile'
+    forks: 'Forks'
+    votes: 'Votes'
+    voters: 'Voters'
+    fork: 'Fork'
+    last_update: 'Last Update'
+    vote: 'Vote'
+    no_content: '(no content)'
+    inspect_html: 'You can inspect <a v-bind:href="currentFork.vinewood_url" target="_blank">transactions</a> or
+      <a v-bind:href="currentFork.read_contract_url" target="_blank">contract data</a> on Vinewood block explorer.'
+    report_this_page: 'Report this page'
+    vote_for_html: 'Vote for <span v-text="currentFork.name"></span>'
+    sign_in_to_vote: 'You must sign in to vote.'
+    voted: 'Voted'
+    wait_votes: 'Please wait while your votes take effect.'
+    check_tx_html: 'You can also track <a v-bind:href="tx" target="_blank">your transaction</a>
+      on Vinewood block explorer once transaction is confirmed.'
+    to: 'To'
+    account: 'Account'
+    vote_votes: 'Votes'
+    you_have_votes_html: 'You have <span v-text="parseInt(balance)"></span>'
+    password: 'Password'
+    unlock_keystore: 'Enter your password to unlock keystore'
+    loading: 'Loading...'
+    report: 'Report'
+    report_page: 'Page'
+    report_reasons:
+      - "It's spam"
+      - "It's not celebrity content"
+      - 'Other (specified below)'
+    report_reason: 'Reason (required)'
+    report_message: 'Message (optional)'
+    report_message_placeholder: 'Other thing you want to share with us (up to 500 characters).'
+  celeb_error:
+    already_exists_html: 'Page with <a href="%{link}">the same name</a> already exists.'
+    invalid_captcha: 'Bad captcha response. Please try again.'
+  create_celeb_success:
+    title: 'Page Created.'
+    desc_html: 'You''ve just added data to the blockchain. Content becomes visible once
+      <a href="%{link}" target="_blank">transaction</a> is confirmed (usually in 10 seconds).'
+  update_celeb_success:
+    title: 'Page Updated.'
+    desc_html: 'You''ve just modified data in the blockchain. Content get updated once
+      <a href="%{link}" target="_blank">transaction</a> is confirmed (usually in 10 seconds).'
+  report_error:
+    invalid_reason: 'Please choose a reason.'
+    invalid_captcha: 'Bad captcha response. Please try again.'
+    content_too_long: 'Content is too long.'
+  report_success: 'Thank you for providing feedback.'

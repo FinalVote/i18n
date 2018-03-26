@@ -1,0 +1,26 @@
+en:
+  transfer_success:
+    title: 'Transaction created.'
+    desc_html: 'Please wait while your <a href="%{link}" target="_blank">transaction</a> is confirmed (usually in 10 seconds).'
+  transfer_error:
+    invalid_captcha:
+      title: 'Incorrect Captcha'
+      desc: 'Invalid captcha response. Please try again.'
+    invalid_from:
+      title: 'Incorrect From Address'
+      desc: 'We need correct address to make transaction.'
+    invalid_to:
+      title: 'Incorrect To Address'
+      desc: 'We need correct address to make transaction.'
+    invalid_value:
+      title: 'Incorrect Value'
+      desc: 'We need correct value to make transaction.'
+    insufficient_funds:
+      title: 'Insufficient Funds'
+      desc: 'You don''t have enough funds to make transaction.'
+    incorrect_password:
+      title: 'Incorrect Password'
+      desc: 'We need correct password to unlock your keystore to make transaction.'
+    else:
+      title: 'Error occurred'
+      desc: 'We will fix this error soon.'

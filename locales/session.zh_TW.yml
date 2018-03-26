@@ -1,0 +1,49 @@
+zh_TW:
+  session:
+    sign_in: '登入'
+    email_address: '電郵地址'
+    password: '密碼'
+    encrypted_password: '加密密碼'
+    signing_in: '登入中...'
+    reset_password: '重設密碼'
+    invite_html: '%{inviter} 邀請你註冊 Final.Vote 。現在註冊即可免費獲得 %{votes} 票。'
+    sign_up: '註冊'
+    signing_up: '註冊中...'
+    country: '你的國家/地區'
+    username: '用戶名'
+    send_me_password: '將加密密碼發給我'
+    send_me_password_help: '一旦你忘記了明文密碼，可以用加密密碼來重置密碼'
+    reset_password_instruction: '請輸入你的電郵地址和用戶名。一封重置密碼郵件將會發給你。'
+    reset_password_instruction_html: '如果你有加密密碼，可以<a href="%{link}">使用加密密碼登入</a>'
+    note: '注意'
+    reset_password_note: '如果你不能提供當前密碼，現有加密密鑰將無法恢復。
+      重置密碼將生成新的密鑰，舊的密鑰則會被標記為廢棄密鑰。'
+    send_reset_email: '發送重置密碼郵件'
+    loading: '載入中...'
+  sign_in_first: '請登入。'
+  sign_in_error:
+    invalid_captcha: '驗證碼錯誤，請重試。請確保你的網絡能訪問 Google reCAPTCHA 。'
+    invalid_user: '此郵箱無對應用戶。'
+    invalid_password: '密碼錯誤。'
+  sign_up_success:
+    title: '歡迎！ '
+    desc: '我們已向你發送了一封用於驗證的電子郵件，請查看你的收件箱並點擊當中的鏈接。'
+  resend_success:
+    title: '驗證郵件已發送。'
+    desc: '請查看你的收件箱並點擊當中的鏈接，如果你仍未收到電子郵件，請聯繫我們。'
+  email_verification_success:
+    title: '電子郵件地址已驗證。'
+    desc_html: '我們剛剛向你的賬戶轉賬了 %{votes} 票。一旦 <a href="%{link}" target="_blank">交易</a>
+      獲確認（通常需時10秒）後，你就可以看到賬戶餘額的變化。'
+  send_reset_success:
+    title: '已給你發了重置密碼的電子郵件。'
+    desc: '請查看你的收件箱並點擊當中的鏈接，如果你仍未收到電子郵件，請聯繫我們。'
+  send_reset_error:
+    invalid_email_or_username: '電郵地址或用戶名錯誤。'
+    invalid_captcha: '驗證碼錯誤，請重試。請確保你的網絡能訪問 Google reCAPTCHA 。'
+  email_reset_success: '請為 %{name} 設置一個新密碼。'
+  password_reset_success: '現在你可以用新密碼登入了。'
+  password_reset_error:
+    invalid_captcha: '驗證碼錯誤，請重試。請確保你的網絡能訪問 Google reCAPTCHA 。'
+    invalid_token: '密碼重置期限已過，請重試。'
+    sign_in_instead: '你輸入了正確的密碼，無需重置密碼，請直接登入。'

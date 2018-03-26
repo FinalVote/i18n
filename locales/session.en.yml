@@ -1,0 +1,49 @@
+en:
+  session:
+    sign_in: 'Sign In'
+    email_address: 'Email address'
+    password: 'Password'
+    encrypted_password: 'Encrypted Password'
+    signing_in: 'Signing in...'
+    reset_password: 'Reset Password'
+    invite_html: '%{inviter} invites you to join Final.Vote. Sign up to get %{votes} votes for free.'
+    sign_up: 'Sign Up'
+    signing_up: 'Signing up...'
+    country: 'Where do you live?'
+    username: 'Username'
+    send_me_password: 'Send me new encrypted password'
+    send_me_password_help: 'Encrypted password can be used to reset your password once you forgot it.'
+    reset_password_instruction: 'Enter your email address and username. An email containing a link to reset your password will be sent to that address.'
+    reset_password_instruction_html: 'If you have an encrypted password, you can <a href="%{link}">Sign In with Encrypted Password</a>'
+    note: 'Note'
+    reset_password_note: 'Your current encrypted keystore can''t be recovered without your old password.
+      By resetting password, it will be marked as obsolete and is replaced by a new one.'
+    send_reset_email: 'Send Password Reset Email'
+    loading: 'Loading...'
+  sign_in_first: 'Please sign in.'
+  sign_in_error:
+    invalid_captcha: 'Bad captcha response. Please try again.'
+    invalid_user: 'No such user with this email.'
+    invalid_password: 'Incorrect password.'
+  sign_up_success:
+    title: 'Welcome!'
+    desc: "We've just sent you a verification email. Please check your inbox and click the link inside."
+  resend_success:
+    title: 'Verification email sent.'
+    desc: "Please check your inbox and click the link inside. Contact us if you still don't get the email."
+  email_verification_success:
+    title: 'Email verified!'
+    desc_html: 'We''ve just sent %{votes} votes to your account. Please check your account balance once your
+      <a href="%{link}" target="_blank">transaction</a> is confirmed (usually in 10 seconds).'
+  send_reset_success:
+    title: 'Reset password email sent.'
+    desc: "Please check your inbox and click the link inside. Contact us if you still don't get the email."
+  send_reset_error:
+    invalid_email_or_username: 'Wrong email address or username.'
+    invalid_captcha: 'Bad captcha response. Please try again.'
+  email_reset_success: 'Please set up a new password for %{name}.'
+  password_reset_success: 'You can now sign in with your new password.'
+  password_reset_error:
+    invalid_captcha: 'Bad captcha response. Please try again.'
+    invalid_token: 'Password reset session has expired. Please try again.'
+    sign_in_instead: 'You have entered a CORRECT password. There''s no need to reset password. Please sign in instead.'
