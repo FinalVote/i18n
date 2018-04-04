@@ -1,0 +1,26 @@
+ko:
+  # nav
+  home_page: '홈페이지'
+  block_explorer: '블록 브라우징'
+  create_new_celeb: '명인 작성'
+  wallet: '지갑'
+  transactions: '거래'
+  profile: '개인 정보'
+  password: '암호'
+  send_transaction: '대체'
+  sign_out: '로그아웃'
+  sign_in: '로그인'
+  sign_up: '등록'
+  refer_votes: '한분씩 신규 유저를 초청하면 %{votes} 표를 얻을 수 있음.'
+  sign_up_votes: '신규 유저로 등록하면 %{votes}표를 얻을 수 있음.'
+
+  # footer
+  social_media: '소셜 미디어'
+  section: '섹션'
+  voting: '투표'
+  tag: '태그'
+  others: '기타'
+  blog: '블로그'
+  faq: '자주 묻는 질문들'
+  roadmap: '로드맵'
+  language: '언어'

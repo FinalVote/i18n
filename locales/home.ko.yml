@@ -1,0 +1,20 @@
+ko:
+  home:
+    global_users: '글로벌 유저'
+    search: '검색'
+    name: '명인 이름'
+    votes: '총 득표수'
+    last24hrs: '24시간 내에 득표수'
+    voters: '독립 투표 인원수'
+    change: '순위 변화'
+    last2weeks: '2주 안에 추세'
+    refer_your_friends: '친구 초청'
+    refer_text: '초청 링크를 복사하고 친구한테 보내고 신규 유저 등록을 초청하십시오.
+      누구나 이 링크를 통해 성공적으로 등록되다면 %{votes} 무료로 표를 얻을 수 있습니다.'
+    copy_link: '링크 복사'
+    copied: '복사했습니다.!'
+
+    all_time: '시간을 제한 없다'
+    last_week: '이번 주 만'
+    last2weeks: '2주 안에 만'
+    last30days: '1 달 만'

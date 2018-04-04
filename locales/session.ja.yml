@@ -1,0 +1,49 @@
+ja:
+  session:
+    sign_in: 'ログイン'
+    email_address: 'メールアドレス'
+    password: 'パスワード'
+    encrypted_password: '暗号化パスワード'
+    signing_in: 'ログイン中...'
+    reset_password: 'パスワード再設定'
+    invite_html: '%{inviter} Final.Vote に招待させて頂きます。今登録されたら %{votes} 票が貰えます。'
+    sign_up: '登録'
+    signing_up: '登録中...'
+    country: '国又は地域'
+    username: 'ユーザー名'
+    send_me_password: 'パスワードを送信してください'
+    send_me_password_help: 'パスワードをお忘れの場合、暗号化パスワードでパスワードを再設定が出来ます'
+    reset_password_instruction: 'メールアドレス及びユーザー名を入力してください。パスワードの再設定メールを送信させて頂きます。'
+    reset_password_instruction_html: '暗号化パスワードお持ちの場合、<a href="%{link}">使用加密密码登录暗号化パスワードで登録してください</a>'
+    note: '注意'
+    reset_password_note: '現パスワードが提供出来無い場合、お持ちで有るキーが利用出来ません。
+      新たなパスワードの再設定が終えたら新しいキーが作られます。古いキーは廃棄標記をします。'
+    send_reset_email: 'パスワード再設定のメールを送信する'
+    loading: 'ロード中...'
+  sign_in_first: 'ログインしてください。'
+  sign_in_error:
+    invalid_captcha: '認証コード再確認ください。Google reCAPTCHA にアクセスが出来る様ネット接続状況をご確認ください。'
+    invalid_user: 'メールアドレスの確認が出来ません。'
+    invalid_password: 'パスワードを再確認してください。'
+  sign_up_success:
+    title: 'ようこそ！'
+    desc: '御客様のアドレスに検証用のメールを送信をさせて頂きました。ご確認の上メール中にリンク先のURLをクリックしてください。'
+  resend_success:
+    title: '検証メールを送信しました。'
+    desc: '受信メールをご確認の上リンク先のURLをクリックしてください。未だ届いてない場合、ご連絡くださいますようお願い致します。'
+  email_verification_success:
+    title: 'メールアドレスの検証をしました。'
+    desc_html: '只今御客様のアカウントに%{votes} 票を振込しました。<a href="%{link}" target="_blank">交易</a>
+      の取引を確認されましたら、（通常１０秒掛かる）アカウント残額がチェック出来ます。'
+  send_reset_success:
+    title: 'パスワード再設定のメールを送信致しました。'
+    desc: '受信メールをご確認の上リンク先のURLをクリックしてください。未だ届いてない場合、ご連絡くださいますようお願い致します。'
+  send_reset_error:
+    invalid_email_or_username: 'メールアドレス又はユーザー名を再確認ください。'
+    invalid_captcha: '認証コード再確認ください。Google reCAPTCHA にアクセスが出来る様ネット接続状況をご確認ください。'
+  email_reset_success: '%{name}の為新しいパスワードを設定してください。'
+  password_reset_success: 'これから新しいパスワードで登録出来ます。'
+  password_reset_error:
+    invalid_captcha: '認証コード再確認ください。Google reCAPTCHA にアクセスが出来る様ネット接続状況をご確認ください。'
+    invalid_token: '一定期間が経過した為、パスワードを再入力してください。'
+    sign_in_instead: 'パスワード確認出来ました、直接ご登録ください。'

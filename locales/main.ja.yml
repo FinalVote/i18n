@@ -1,0 +1,26 @@
+ja:
+  # nav
+  home_page: 'トップページ'
+  block_explorer: 'ブロックリンクに目を通す'
+  create_new_celeb: '有名人を作成'
+  wallet: 'お財布'
+  transactions: '取引'
+  profile: 'プライバシー'
+  password: 'パスワード'
+  send_transaction: '振込'
+  sign_out: 'ログアウト'
+  sign_in: 'ログイン'
+  sign_up: '登録'
+  refer_votes: '友達を招待されたらプレゼント %{votes} 票が貰えます。'
+  sign_up_votes: '登録されたら無料の %{votes} 票が貰えます。'
+
+  # footer
+  social_media: 'SNS'
+  section: 'セクション'
+  voting: '投票'
+  tag: 'Tag'
+  others: '他'
+  blog: 'ブログ'
+  faq: '一般的問題'
+  roadmap: 'ルードマップ'
+  language: '言語'

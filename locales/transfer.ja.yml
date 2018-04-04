@@ -1,0 +1,26 @@
+ja:
+  transfer_success:
+    title: '振込取引完成。'
+    desc_html: '<a href="%{link}" target="_blank">交易</a> の確認をお待ちください（通常10秒掛かる）。'
+  transfer_error:
+    invalid_captcha:
+      title: '認証コード再確認ください'
+      desc: '認証コード再確認ください。Google reCAPTCHAにアクセスが出来る様ネット接続状況をご確認ください。'
+    invalid_from:
+      title: '源アドレス再確認ください'
+      desc: '正確なアドレスで取引必要です。'
+    invalid_to:
+      title: '宛先再確認ください'
+      desc: '正確なアドレスで取り引き必要です。'
+    invalid_value:
+      title: '票数再確認ください'
+      desc: '正確な数字で取引必要です。'
+    insufficient_funds:
+      title: '残額不足'
+      desc: '残額不足の為取引が出来ません。'
+    incorrect_password:
+      title: 'パスワード再確認ください'
+      desc: '正確なパスワードでキーを解除します。'
+    else:
+      title: 'エラー発生'
+      desc: '素早く修復致します。'

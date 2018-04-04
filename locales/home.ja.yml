@@ -1,0 +1,19 @@
+ja:
+  home:
+    global_users: 'グローバルユーザー'
+    search: '検索'
+    name: '有名人名前'
+    votes: '投票数'
+    last24hrs: '24時間内の票数'
+    voters: '独自投票人数'
+    change: 'ランキング変化'
+    last2weeks: '2週間変化'
+    refer_your_friends: '友達を招待'
+    refer_text: '招待リンクをコピーし友達に送って招待しましょう；
+      本リンクでの登録を成功すれば、貴方がプレゼントの %{votes} 票を貰えます。'
+    copy_link: 'リンクをコピー'
+    copied: 'コピー済み!'
+    all_time: '時間制限なし'
+    last_week: '今週以内'
+    last2weeks: '２週間以内'
+    last30days: '一ヶ月以内'

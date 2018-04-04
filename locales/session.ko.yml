@@ -1,0 +1,49 @@
+ko:
+  session:
+    sign_in: '로그인'
+    email_address: '이메일 어드레스'
+    password: '암호'
+    encrypted_password: '암호화된 암호'
+    signing_in: '로그인 중...'
+    reset_password: '암호 재설정'
+    invite_html: '%{inviter} 가 Final.Vote 신규 유저 등록을 초청했음. 지금 등록하면 무료로 %{votes} 표를 얻을 수 있음.'
+    sign_up: '등록'
+    signing_up: '등록 중...'
+    country: '국가/지역'
+    username: '유저 이름. '
+    send_me_password: '암호화된 암호를 보내주십시오.'
+    send_me_password_help: '평문 암호를 잊으시면 암호화된 암호를 통해 암호를 재설정할 수 있습니다. '
+    reset_password_instruction: '이메일 어드레스와 유저 이름을 입력하십시오. 암호 재설정 전자 메일 메시지가 전송되겠습니다. '
+    reset_password_instruction_html: '암호화된 암호가 있다면 <a href="%{link}">암호화된 암호로 등록할 수 있습니다</a>'
+    note: '주의'
+    reset_password_note: '만약 현재 암호를 제공할 수 없으면 기존 암호화된 키 스토어를 회복할 수 없습니다.
+      재설정 암호는 새 키 스토어를 생성할 것고 낡은 키 스토어를 폐기하겠습니다.'
+    send_reset_email: '암호 재설정 이메일가 전송함'
+    loading: '로딩...'
+  sign_in_first: '로그인 하십시오'
+  sign_in_error:
+    invalid_captcha: '인증 번호가 오바르지 않습니다. 다시 시도하십시오. 네트워크로서 Google reCAPTCHA를 방문하는 것 확보하십시오.'
+    invalid_user: '이 이메일에 대응한 사용자가 없습니다.'
+    invalid_password: '암호가 올바르지 않습니다.'
+  sign_up_success:
+    title: '환영합니다！'
+    desc: '확인 메일을 보내드렸습니다. 해당 이메일을 확인하고 이메일에 포함된 링크를 클릭하십시오.'
+  resend_success:
+    title: '확인 메일을 보내드렸습니다.'
+    desc: '해당 이메일을 확인하고 이메일에 포함된 링크를 클릭하십시오.  전자 메일 확인 메시지를 수신하지 못한 경우 당사에 문의해 주십시오.'
+  email_verification_success:
+    title: '이메일 어드레스를 확인했습니다.'
+    desc_html: '다신의 계정에서 %{votes} 표를 계좌했습니다. 오직<a href="%{link}" target="_blank">거래</a>
+      확인 후（보통 10초 안에 끝냅니다.），계정 잔액을 확인할 수 있습니다.'
+  send_reset_success:
+    title: '암호 재설정 전자 메일 메시지가 전송되었습니다.'
+    desc: '해당 이메일을 확인하고 이메일에 포함된 링크를 클릭하십시오.  전자 메일 확인 메시지를 수신하지 못한 경우 당사에 문의해 주십시오.'
+  send_reset_error:
+    invalid_email_or_username: '전자 메일 및 사용자 이름이 올바르지 않습니다.'
+    invalid_captcha: '인증 번호가 오바르지 않습니다. 다시 시도하십시오. 네트워크로서 Google reCAPTCHA를 방문하는 것 확보하십시오.'
+  email_reset_success: '%{name}를 위해 새 암호를 설정하십시오.'
+  password_reset_success: '새 암호로 로그인할 수 있습니다.'
+  password_reset_error:
+    invalid_captcha: '인증 번호가 오바르지 않습니다. 다시 시도하십시오. 네트워크로서 Google reCAPTCHA를 방문하는 것 확보하십시오.'
+    invalid_token: '암호 재취득 유효 기간이 만료되었습니다. 다시 시도하십시오.'
+    sign_in_instead: '암호가 올바릅이다. 암호 리셋 할 필요가 없습니다. 바로 로그인하십시오.'

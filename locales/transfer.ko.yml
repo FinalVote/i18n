@@ -1,0 +1,26 @@
+ko:
+  transfer_success:
+    title: '대체 거래 생성되었습니다. '
+    desc_html: '대기하세요. <a href="%{link}" target="_blank">거래</a>확인되면 보통 10초 안에 끝냅니다.'
+  transfer_error:
+    invalid_captcha:
+      title: '인증 번호가 올바르지 않습니다'
+      desc: '인증 번호가 오바르지 않습니다. 다시 시도하십시오. 네트워크로서 Google reCAPTCHA를 방문하는 것 확보하십시오.'
+    invalid_from:
+      title: '잘못된 출처 주소입니다'
+      desc: '트랜잭션을 만드는 게 정확한 주소가 필요합니다.'
+    invalid_to:
+      title: '잘못된 목표 주소입니다'
+      desc: '트랜잭션을 만드는 게 정확한 주소가 필요합니다.'
+    invalid_value:
+      title: '잘못된 표수입니다'
+      desc: '트랜잭션을 만드는 게 정확한 수치가 필요합니다.'
+    insufficient_funds:
+      title: '예금 부족'
+      desc: '트랜잭션을 만드는 게 충분한 예금이 없습니다.'
+    incorrect_password:
+      title: '암호가 올바르지 않습니다.'
+      desc: '트랜잭션을만들기 위해서 정확한 암호로 키 스토어를 잠금 해제해야 합니다.'
+    else:
+      title: '오류가 발생했습니다'
+      desc: '곧 이 오류를 수정하겠습니다.'
