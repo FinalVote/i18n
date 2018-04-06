@@ -1,0 +1,8 @@
+en:
+  activerecord:
+    attributes:
+      celeb_fork:
+        name: 'Name'
+        slug: 'Slug'
+        content: 'Content'
+        password: 'Password'

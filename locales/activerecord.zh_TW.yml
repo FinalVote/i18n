@@ -1,0 +1,8 @@
+zh_TW:
+  activerecord:
+    attributes:
+      celeb_fork:
+        name: '名稱'
+        slug: '名稱'
+        content: '內容'
+        password: '密碼'

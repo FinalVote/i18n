@@ -1,0 +1,8 @@
+zh_CN:
+  activerecord:
+    attributes:
+      celeb_fork:
+        name: '名称'
+        slug: '名称'
+        content: '内容'
+        password: '密码'

@@ -1,0 +1,8 @@
+ko:
+  activerecord:
+    attributes:
+      celeb_fork:
+        name: '이름'
+        slug: '이름'
+        content: '컨텐츠'
+        password: '암호'
